@@ -1,3 +1,9 @@
+.baw,
+.yb {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif; 
+}
+
 .baw {
     color: rgb(255, 240, 255);
     background-color: rgb(17, 2, 2);
@@ -6,9 +12,4 @@
 .yb {
     color: black;
     background-color: yellow;
-}
-
-.fl {
-    font-size: 28px;
-    font-family: Helvetica, 'Times New Roman', sans-serif
 }
