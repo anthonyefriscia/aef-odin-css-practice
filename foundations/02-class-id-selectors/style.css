@@ -1,9 +1,18 @@
 .rb {
     background-color: rgb(206, 97, 97);
-font-family: "Verdana", "DejaVU Sans", "sans-serif";
+    font-family: "Verdana", "DejaVU Sans", "sans-serif";
+}
+
+.pc {
+    font-size: 24px;    
 }
 
 #oddb {
     color: rgb(20, 65, 211);
     font-size: 36px;
+}
+
+#inv {
+    background-color: rgb(111, 212, 111);
+    font-weight: bold;
 }
